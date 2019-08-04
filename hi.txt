@@ -1,0 +1,7 @@
+Boolean expr: invoke.cont33=T AND invoke.cont28=T AND for.cond=T
+Boolean expr: invoke.cont43=T AND invoke.cont36=T AND invoke.cont28=F AND for.cond=T
+Boolean expr: invoke.cont43=T AND invoke.cont36=T AND invoke.cont33=F AND invoke.cont28=T AND for.cond=T
+Boolean expr: invoke.cont54=T AND invoke.cont47=T AND invoke.cont36=F AND invoke.cont28=F AND for.cond=T
+Boolean expr: invoke.cont54=T AND invoke.cont47=T AND invoke.cont36=F AND invoke.cont33=F AND invoke.cont28=T AND for.cond=T
+Boolean expr: invoke.cont54=T AND invoke.cont47=T AND invoke.cont43=F AND invoke.cont36=T AND invoke.cont28=F AND for.cond=T
+Boolean expr: invoke.cont54=T AND invoke.cont47=T AND invoke.cont43=F AND invoke.cont36=T AND invoke.cont33=F AND invoke.cont28=T AND for.cond=T
